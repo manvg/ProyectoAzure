@@ -5,7 +5,7 @@ pool:
   vmImage: 'ubuntu-latest'
 
 variables:
-  azureSubscription: 'DevOpsPipeline'
+  azureSubscription: 'PipelineDevOps'
   location: 'eastus2'
   resourceGroupName: 'GrupoRecursos1'
   virtualNetworkName: 'NombreRedVirtual1'
