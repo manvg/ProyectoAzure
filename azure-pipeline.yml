@@ -10,7 +10,7 @@ variables:
   resourceGroupName: 'GrupoRecursos1'
   virtualNetworkName: 'NombreRedVirtual1'
   subnetName: 'NombreSubred1'
-  addressPrefix: '10.0.0.0/16'
+  addressPrefix: '10.0.0.0/26'
   subnetPrefix: '10.0.1.0/24'
   securityGroupName: 'GrupoSeguridad1'
   publicIpName: 'MV1-ip'
