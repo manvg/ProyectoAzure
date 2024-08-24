@@ -16,7 +16,7 @@ variables:
   publicIpName: 'MV1-ip'
   vmName: 'MV1'
   vmSize: 'Standard_B1s'
-  adminUsername: 'Usuario1'
+  adminUsername: 'usuario1'
   adminPassword: 'Usuario1Azure.'
 
   # Variables de la imagen
