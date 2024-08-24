@@ -9,7 +9,7 @@ variables:
   location: 'eastus2'
   resourceGroupName: 'GrupoRecursos1'
   virtualNetworkName: 'NombreRedVirtual1'
-  subnetName: 'default'
+  subnetName: 'NombreSubred1'
   addressPrefix: '10.0.0.0/16'
   subnetPrefix: '10.0.1.0/24'
   securityGroupName: 'GrupoSeguridad1'
