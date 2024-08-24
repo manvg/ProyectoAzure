@@ -20,10 +20,10 @@ variables:
   adminPassword: 'Usuario1Azure.'
 
   # Variables de la imagen
-  imagePublisher: 'Canonical'
-  imageOffer: '0001-com-ubuntu-server-jammy'
-  imageSku: '22_04-lts-gen2'
-  imageVersion: 'latest'  # Versión específica de la imagen
+  imagePublisher: 'canonical'
+  imageOffer: 'ubuntu-24_04-lts'
+  imageSku: 'server'
+  imageVersion: 'latest'
 
 steps:
 - task: AzureCLI@2
