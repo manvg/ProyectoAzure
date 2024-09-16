@@ -5,9 +5,9 @@ trigger:
 
 variables:
   # Variables de entorno
-  ACR_NAME: 'devopsapp' 
-  IMAGE_NAME: 'appdevops-image-grupo2'
-  SERVICE_CONNECTION_NAME: 'appdevops-grupo2'
+  ACR_NAME: 'contenedorgrupo2' 
+  IMAGE_NAME: 'contenedorgrupo2-image'
+  SERVICE_CONNECTION_NAME: 'contenedorgrupo2-grupo2'
 
 jobs:
   - job: BuildAndPush
