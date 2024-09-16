@@ -7,7 +7,7 @@ variables:
   # Variables de entorno
   ACR_NAME: 'contenedorgrupo2' 
   IMAGE_NAME: 'contenedorgrupo2-image'
-  SERVICE_CONNECTION_NAME: 'contenedorgrupo2-grupo2'
+  SERVICE_CONNECTION_NAME: 'contenedorgrupo2-serv-conexion'
 
 jobs:
   - job: BuildAndPush
